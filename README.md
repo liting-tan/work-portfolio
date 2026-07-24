@@ -9,8 +9,8 @@ This space showcases the projects and experiments that make up my journey in dat
 
 ## Featured Projects
 Here are some highlights from my portfolio:
-| Project | Description | Tech Stack | Link |
-|:------- | :---------- | :--------- | :--- |
-| HR Analytics Dashboard | An interactive dashboard that displayed attrition metrics such as headcount and job satisfaction, analysed trends and key factors and predicted high flight risk employees for proactive retention efforts | Tableau | [Tableau Public](https://public.tableau.com/app/profile/li.ting.tan8797/viz/EmployeeAnalysis2_17834424986850/Overview#1) |
-| Spaceship Titanic Competition | A data analysis script to predict which passengers were transported to an alternate dimension. | Python | [GitHub Repo](https://github.com/liting-tan/work-portfolio/blob/main/titanic-data-analysis-script.ipynb) |
-| House Prices - Advanced Regression Competition | A data analysis script to predict the final house prices in Ames, Iowa. | Python | [GitHub Repo](https://github.com/liting-tan/work-portfolio/blob/main/house-prices-analysis-script.ipynb) |
+| Project | Description | Key Focus | Tech Stack | Link |
+|:------- | :---------- | :-------- | :--------- | :--- |
+| HR Analytics Dashboard | An interactive dashboard that displayed attrition metrics such as headcount and job satisfaction, analysed trends and key factors and predicted high flight risk employees for proactive retention efforts | Metric tracking, Trend analysis, Flight risk assessment | Tableau | [Tableau Public](https://public.tableau.com/app/profile/li.ting.tan8797/viz/EmployeeAnalysis2_17834424986850/Overview#1) |
+| Spaceship Titanic Competition | A predictive data analysis to identify which passengers were transported to an alternate dimension. | Exploratory Data Analysis (EDA), feature engineering, classification modelling | Python | [GitHub Repo](https://github.com/liting-tan/work-portfolio/blob/main/titanic-data-analysis-script.ipynb) |
+| House Prices - Advanced Regression Competition | A data analysis script to predict the final house prices in Ames, Iowa. | Data cleaning, regression modelling | Python | [GitHub Repo](https://github.com/liting-tan/work-portfolio/blob/main/house-prices-analysis-script.ipynb) |
